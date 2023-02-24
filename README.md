@@ -36,4 +36,4 @@ scpt.execScript()
 ---
 
 ## Known Issues
-- Nothing so far!
+- Cannot put an object in an offset group if it's already in an offset group named `[objectname]_OffsetGroup`
