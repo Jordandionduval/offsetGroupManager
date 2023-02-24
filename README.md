@@ -20,6 +20,9 @@ The tool works by creating an offset group for a selected controller and matchin
 
 Offset groups are also named using the following rule: `[objectname]_OffsetGroup`
 
+![image](https://user-images.githubusercontent.com/84198946/221066140-5047f1ff-98cf-401f-8a66-8e51ab59e722.png)
+
+
 ---
 
 ## Installation
